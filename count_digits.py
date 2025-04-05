@@ -6,4 +6,4 @@ while n > 0:
     i = i + 1
     n = n // 10
     
-print(f'Nomber of Digits: {i}')    
+print(f'Number of Digits: {i}')    
