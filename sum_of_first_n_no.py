@@ -7,4 +7,3 @@ while i < n:
     i = i + 1
     sum = sum + i
 print(f'Sum of number till your number: {sum}')    
- 
